@@ -2,26 +2,25 @@
 
         📌 Project Summary
 
-        The **Pizza Sales Analysis Dashboard** is a business intelligence project developed using **MS SQL Server** and **Power BI**.
-        It focuses on analyzing sales data to uncover meaningful insights related to revenue generation, customer behavior, and product performance.
-        This dashboard enables stakeholders to make **data-driven decisions** by visualizing key metrics and trends.
+        The Pizza Sales Analysis Dashboard is a business intelligence project developed using MS SQL Server and Power BI.
+        It focuses on analyzing sales data to uncover meaningful insights related to revenue generation, customer
+        behavior, and product performance.
+        This dashboard enables stakeholders to make data-driven decisions** by visualizing key metrics and trends.
 
----
+🎯 Business Problem
 
-## 🎯 Business Problem
+        Pizza businesses generate large volumes of sales data daily, but without proper analysis,it becomes difficult to:
 
-Pizza businesses generate large volumes of sales data daily, but without proper analysis, it becomes difficult to:
+                * Identify top-performing products
+                * Understand customer ordering patterns
+                * Track revenue growth over time
+                * Optimize product offerings
 
-* Identify top-performing products
-* Understand customer ordering patterns
-* Track revenue growth over time
-* Optimize product offerings
+        👉 This project solves these problems using data analytics and visualization.
 
-👉 This project solves these problems using data analytics and visualization.
 
----
 
-## 🛠️ Tools & Technologies Used
+🛠️ Tools & Technologies Used
 
 * **MS SQL Server** → Data extraction, cleaning, and transformation
 * **Power BI** → Data visualization and dashboard creation
