@@ -1,4 +1,4 @@
-🍕 Pizza Sales Analysis Dashboard
+🍕 Pizza Sales Analysis Dashboard using MS SQL Server and Power BI
 
 NOTE:
 
