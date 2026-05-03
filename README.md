@@ -1,6 +1,6 @@
 🍕 Pizza Sales Analysis Dashboard using MS SQL Server and Power BI
 
-NOTE:
+NOTE:   
 
         This dashboard was created using Power BI. As I do not have a business account required
         for online deployment, I  have included screenshots below to showcase the dashboard.
